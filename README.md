@@ -63,3 +63,8 @@ To create new features from existing restaurant data and encode categorical vari
 
   <img width="632" height="452" alt="image" src="https://github.com/user-attachments/assets/036265f5-f21e-49fe-9538-9c2d2029d11d" />
 
+  📦 Online Delivery Encoding
+
+  <img width="677" height="447" alt="image" src="https://github.com/user-attachments/assets/249e7a42-b5b2-4742-8904-531e12513e68" />
+
+
