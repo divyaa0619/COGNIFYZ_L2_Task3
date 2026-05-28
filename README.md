@@ -54,3 +54,8 @@ To create new features from existing restaurant data and encode categorical vari
        ✂️ Restaurant Name Length Feature
 
        <img width="619" height="391" alt="image" src="https://github.com/user-attachments/assets/983dabf1-dee1-4da4-a82c-2c6ed651bde1" />
+
+       📍 Address Length Feature
+
+       <img width="632" height="391" alt="image" src="https://github.com/user-attachments/assets/7c753e8b-eb47-4e6a-82f0-adc9b06ce01a" />
+
