@@ -45,17 +45,8 @@ To create new features from existing restaurant data and encode categorical vari
    • Encoded features help prepare data for machine learning models
 
 
-    **📷 Output**
-    
-      **📊 Dataset Columns**
+  ** 📷 Output** 
 
-      <img width="704" height="283" alt="image" src="https://github.com/user-attachments/assets/00cd4c00-6166-44c7-bf89-2945a241b0d6" />
+  📊 Dataset Columns
 
-       ✂️ Restaurant Name Length Feature
-
-       <img width="619" height="391" alt="image" src="https://github.com/user-attachments/assets/983dabf1-dee1-4da4-a82c-2c6ed651bde1" />
-
-       📍 Address Length Feature
-
-       <img width="632" height="391" alt="image" src="https://github.com/user-attachments/assets/7c753e8b-eb47-4e6a-82f0-adc9b06ce01a" />
-
+   <img width="704" height="283" alt="image" src="https://github.com/user-attachments/assets/aa9b58dd-2632-469f-b41e-d22b4eeb6bb3" />
