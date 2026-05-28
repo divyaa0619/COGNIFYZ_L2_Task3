@@ -50,3 +50,7 @@ To create new features from existing restaurant data and encode categorical vari
       **📊 Dataset Columns**
 
       <img width="704" height="283" alt="image" src="https://github.com/user-attachments/assets/00cd4c00-6166-44c7-bf89-2945a241b0d6" />
+
+       ✂️ Restaurant Name Length Feature
+
+       <img width="619" height="391" alt="image" src="https://github.com/user-attachments/assets/983dabf1-dee1-4da4-a82c-2c6ed651bde1" />
