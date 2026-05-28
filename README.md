@@ -58,3 +58,8 @@ To create new features from existing restaurant data and encode categorical vari
   📍 Address Length Feature
 
   <img width="632" height="391" alt="image" src="https://github.com/user-attachments/assets/7fc82bb2-633a-4b88-9318-0c2fe0231e73" />
+
+  🍽️ Table Booking Encoding
+
+  <img width="632" height="452" alt="image" src="https://github.com/user-attachments/assets/036265f5-f21e-49fe-9538-9c2d2029d11d" />
+
